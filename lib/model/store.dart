@@ -5,6 +5,7 @@ class Store {
   String type;
   num lat;
   num lng;
+  num meter;
   String stockAt;
   String remainStat;
   String createdAt;
